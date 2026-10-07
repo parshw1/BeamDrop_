@@ -1,0 +1,6 @@
+{
+  "name": "BeamDrop - Instant Peer-to-Peer File Transfer",
+  "description": "Ultra-fast temporary file-sharing room for nearby devices. Direct peer-to-peer transfers over WebRTC with instant QR join and multi-peer streaming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
